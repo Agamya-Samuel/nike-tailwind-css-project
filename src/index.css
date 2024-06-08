@@ -12,25 +12,6 @@
   scroll-behavior: smooth;
 }
 
-.mobile-menu {
-  transition: opacity 0.5s ease-in-out;
-  opacity: 0;
-  visibility: hidden;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.mobile-menu.open {
-  opacity: 1;
-  visibility: visible;
-}
-
 @layer components {
   .max-container {
     max-width: 1440px;
