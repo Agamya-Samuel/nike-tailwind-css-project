@@ -2,6 +2,7 @@ First Project with Tailwind CSS, Creating a Nike inspired landing page. 😜
 
 # Website Preview
 https://nike-tailwind-css-project.vercel.app/
+
 ![Image](nike-tailwind-css-preview.png)
 
 # React + Vite
